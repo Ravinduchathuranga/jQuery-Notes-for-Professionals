@@ -10,4 +10,5 @@ trademarks and registered trademarks are the property of their respective
 company owners
 The information presented in this book is not guaranteed to be correct nor
 accurate, use at your own risk</p>
-<img align="center" width="1050" src="">
+<img align="center" width="1050" src="https://github.com/Ravinduchathuranga/jQuery-Notes-for-Professionals/assets/96408799/6259de0a-95ce-42d8-b1e4-93541621d793">
+
